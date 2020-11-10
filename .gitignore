@@ -1,0 +1,6 @@
+/skywalking-demo.iml
+/zipkin-demo/src/test/java/com/example/demo/ZipkinDemoApplicationTests.java
+/zipkin-demo/.mvn/wrapper/
+/zipkin-demo/mvnw
+/zipkin-demo/mvnw.cmd
+/.idea/.gitignore
